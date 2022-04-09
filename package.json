@@ -24,7 +24,7 @@
     "fetch": "^1.1.0",
     "forever-monitor": "^2.0.0",
     "hltv": "^2.17.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pace": "0.0.4",
     "pg": "^7.12.1",
     "pg-copy-streams": "^2.2.2",
