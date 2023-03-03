@@ -22,7 +22,7 @@
     "console-stamp": "^0.2.9",
     "demofile": "^1.1.1",
     "fetch": "^1.1.0",
-    "forever-monitor": "^2.0.0",
+    "forever-monitor": "^3.0.3",
     "hltv": "^2.17.3",
     "moment": "^2.29.4",
     "pace": "0.0.4",
